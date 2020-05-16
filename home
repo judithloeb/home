@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html> 
+  
+  <head>
+  	<title>YUM</title>
+  	<link href="style.css" rel="stylesheet" type="text/css">
+   </head>
+
+
+	 <body>
+		
+		<div id="header">
+			<div class="center" id="header">
+				<div class="middle">
+			
+		</div>
+	</div>
+</div>
+
+<div id="page">
+	<div class="navbar">""</div>
+		<a href="index2.html">home</a>
+		<a href="about.html">about</a>
+		<a href="recipes.html">recipes</a>
+		<a href="contact.html">contact</a>
+    
+</div>
+<br>
+<div class="vegan">
+	<a href="">
+		<img id="" src="">
+	</a>
+</div>
+<div class="nonvegan">
+	<a href="">
+		<img id="" src="">
+	</a>
+
+	
+</div>
